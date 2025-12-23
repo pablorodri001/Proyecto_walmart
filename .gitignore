@@ -38,8 +38,3 @@ Thumbs.db
 
 # Kaggle
 kaggle.json
-
-# Reports exports
-*.csv
-*.xlsx
-*.parquet
